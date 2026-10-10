@@ -1,0 +1,9 @@
+# Exact direct versions verified on Python 3.12; see docs/verification.md.
+ultralytics==8.4.175
+opencv-python==4.14.0.94
+numpy==2.5.3
+PyYAML==6.0.3
+streamlit==1.65.0
+pytest==9.1.1
+torch==2.14.1
+torchvision==0.29.1

@@ -1,0 +1,4 @@
+image,label,person_ids,session_id,source_video
+images/photo_001.jpg,labels/photo_001.txt,consent_P01,session_A,video_A
+images/photo_002.jpg,labels/photo_002.txt,consent_P01;consent_P02,session_A,video_A
+images/photo_003.jpg,labels/photo_003.txt,consent_P03,session_B,

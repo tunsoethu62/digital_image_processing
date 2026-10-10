@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.venv/
+*.pt
+data/
+runs/
+outputs/
+.streamlit/

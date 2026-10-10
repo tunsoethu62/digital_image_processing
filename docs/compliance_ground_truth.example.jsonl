@@ -1,0 +1,1 @@
+{"image_key":"source","frame_number":0,"rule_set":"configs/rules.yaml (freeze hash before review)","persons":[{"person_key":"frame0_P0","box_xyxy":[10,10,200,450],"status":"Uncertain","visibility":{"upper":"visible","lower":"occluded","belt":"not assessed"},"reason":"Required lower garment cannot be assessed"}]}

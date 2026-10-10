@@ -1,0 +1,13 @@
+# Resolve this path relative to the repository when training.
+path: data/split
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: white_uniform_shirt
+  1: non_uniform_upper_clothing
+  2: black_uniform_trousers
+  3: black_uniform_skirt
+  4: non_uniform_lower_clothing
+  5: uniform_belt
+  6: university_emblem

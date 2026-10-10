@@ -1,0 +1,5 @@
+{
+  "preprocessing": "baseline",
+  "classes": ["white_uniform_shirt", "non_uniform_upper_clothing", "black_uniform_trousers", "black_uniform_skirt", "non_uniform_lower_clothing", "uniform_belt", "university_emblem"],
+  "note": "Template for genuinely trained external weights. Save beside best.pt as best.metadata.json. Do not claim an unperformed training method. Pipeline independently validates checkpoint class names."
+}
